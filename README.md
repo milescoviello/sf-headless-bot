@@ -209,6 +209,6 @@ round advance — the same outcome the stock local-match path produces.
 
 ## License
 
-The bot/host code here is provided as-is. Stick Fight: The Game and its
-assemblies are property of Landfall Games; nothing from the game is included
-in this repo.
+The bot/host code here is MIT-licensed (see [`LICENSE`](LICENSE)). Stick Fight:
+The Game and its assemblies are property of Landfall Games; nothing from the
+game is included in this repo.
